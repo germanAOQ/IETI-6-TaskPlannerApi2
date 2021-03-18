@@ -1,0 +1,19 @@
+{
+  "name": "ieti-7-taskplannerapi2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germanAOQ/IETI-7-TaskPlannerApi2.git"
+  },
+  "author": "Germán Ospina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/germanAOQ/IETI-7-TaskPlannerApi2/issues"
+  },
+  "homepage": "https://github.com/germanAOQ/IETI-7-TaskPlannerApi2#readme"
+}
